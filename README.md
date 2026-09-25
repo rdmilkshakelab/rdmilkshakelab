@@ -2,7 +2,7 @@
 
 Learning Python, building projects, and exploring new technology. Based in the UK.
 
-![Automatic maze runner](https://rdmilkshakelab.github.io/rdmilkshakelab.github.io/maze-runner.svg)
+![Automatic maze runner](https://rdmilkshakelab.github.io/maze-runner.svg)
 
 ## Projects
 
